@@ -20,5 +20,6 @@ The dataset consists of 25491 obseravtions and 10 variables. Each row in dataset
 ## Approach
 We perform turnover analysis project by using Python’s Scikit-Learn library. I have used Decision Tree, Gradient Boosting Regressor for calculating Accuracy.
 
+<hr>
 
 If you like this repo, please don't forget to give a ⭐.
